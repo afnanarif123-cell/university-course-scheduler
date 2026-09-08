@@ -31,8 +31,8 @@ rest of their timetable?
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd Scheduler
+git clone https://github.com/afnanarif123-cell/university-course-scheduler.git
+cd university-course-scheduler
 
 python -m venv .venv
 ```
