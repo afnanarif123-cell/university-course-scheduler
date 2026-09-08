@@ -142,7 +142,8 @@ Scheduler/
 ├── courses_sample.csv        # Input: course catalogue
 ├── batches_sample.csv        # Input: batches and enrolments
 ├── schedule.csv              # Output: generated timetable
-└── requirements.txt
+├── requirements.txt
+└── LICENSE
 ```
 
 ## Notes
@@ -151,3 +152,7 @@ If a batch is enrolled in more courses than can fit within the constraints, the
 scheduler prints a warning naming each session it could not place and continues
 with the rest, rather than failing outright. In the bundled sample data this
 happens for `PHYS-C-2024`, which is deliberately over-subscribed.
+
+## License
+
+Released under the MIT License. See [LICENSE](LICENSE) for details.
