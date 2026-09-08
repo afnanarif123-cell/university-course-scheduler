@@ -1,0 +1,649 @@
+BatchName,CourseCode,CourseName,Day,StartTime,EndTime,Duration,Room,Type
+BIO-A-2024,MATH201,Calculus I,Monday,08:00,09:30,1.5,G01,Lecture
+BIO-A-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,G01,Lecture
+BIO-A-2024,BIO101,Introduction to Biology,Monday,12:00,13:30,1.5,G01,Lecture
+BIO-A-2024,BIO201,Cell Biology,Monday,13:30,16:30,3.0,CL01,Lab
+BIO-A-2024,BIO202,Genetics,Monday,16:30,18:00,1.5,G01,Lecture
+BIO-A-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,G01,Lecture
+BIO-A-2024,BIO202,Genetics,Tuesday,10:00,11:30,1.5,G01,Lecture
+BIO-A-2024,BIO101,Introduction to Biology,Tuesday,12:00,13:30,1.5,G01,Lecture
+BIO-A-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G01,Lecture
+BIO-A-2024,CHEM201,Organic Chemistry,Tuesday,15:30,17:00,1.5,G01,Lecture
+BIO-A-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,09:30,1.5,G01,Lecture
+BIO-A-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G01,Lecture
+BIO-A-2024,CHEM101,General Chemistry,Wednesday,12:00,13:30,1.5,G01,Lecture
+BIO-A-2024,BIO202,Genetics,Wednesday,13:30,16:30,3.0,CL01,Lab
+BIO-A-2024,CHEM201,Organic Chemistry,Wednesday,16:30,18:00,1.5,G01,Lecture
+BIO-A-2024,PHYS101,Physics Fundamentals,Thursday,08:00,11:00,3.0,CL01,Lab
+BIO-A-2024,CHEM101,General Chemistry,Thursday,12:00,13:30,1.5,G01,Lecture
+BIO-A-2024,BIO201,Cell Biology,Thursday,14:00,15:30,1.5,G01,Lecture
+BIO-A-2024,MATH202,Calculus II,Thursday,15:30,17:00,1.5,G01,Lecture
+BIO-A-2024,CHEM101,General Chemistry,Friday,08:00,11:00,3.0,CL01,Lab
+BIO-A-2024,MATH201,Calculus I,Friday,12:00,13:30,1.5,G01,Lecture
+BIO-A-2024,BIO201,Cell Biology,Friday,14:00,15:30,1.5,G01,Lecture
+BIO-A-2024,MATH202,Calculus II,Friday,15:30,17:00,1.5,G01,Lecture
+BIO-B-2024,MATH201,Calculus I,Monday,08:00,09:30,1.5,G02,Lecture
+BIO-B-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,G02,Lecture
+BIO-B-2024,BIO101,Introduction to Biology,Monday,12:00,13:30,1.5,G02,Lecture
+BIO-B-2024,BIO201,Cell Biology,Monday,13:30,16:30,3.0,CL02,Lab
+BIO-B-2024,BIO202,Genetics,Monday,16:30,18:00,1.5,G02,Lecture
+BIO-B-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,G02,Lecture
+BIO-B-2024,BIO202,Genetics,Tuesday,10:00,11:30,1.5,G02,Lecture
+BIO-B-2024,BIO101,Introduction to Biology,Tuesday,12:00,13:30,1.5,G02,Lecture
+BIO-B-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G02,Lecture
+BIO-B-2024,CHEM201,Organic Chemistry,Tuesday,15:30,17:00,1.5,G02,Lecture
+BIO-B-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,09:30,1.5,G02,Lecture
+BIO-B-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G02,Lecture
+BIO-B-2024,CHEM101,General Chemistry,Wednesday,12:00,13:30,1.5,G02,Lecture
+BIO-B-2024,BIO202,Genetics,Wednesday,13:30,16:30,3.0,CL02,Lab
+BIO-B-2024,CHEM201,Organic Chemistry,Wednesday,16:30,18:00,1.5,G02,Lecture
+BIO-B-2024,PHYS101,Physics Fundamentals,Thursday,08:00,11:00,3.0,CL02,Lab
+BIO-B-2024,CHEM101,General Chemistry,Thursday,12:00,13:30,1.5,G02,Lecture
+BIO-B-2024,BIO201,Cell Biology,Thursday,14:00,15:30,1.5,G02,Lecture
+BIO-B-2024,MATH202,Calculus II,Thursday,15:30,17:00,1.5,G02,Lecture
+BIO-B-2024,CHEM101,General Chemistry,Friday,08:00,11:00,3.0,CL02,Lab
+BIO-B-2024,MATH201,Calculus I,Friday,12:00,13:30,1.5,G02,Lecture
+BIO-B-2024,BIO201,Cell Biology,Friday,14:00,15:30,1.5,G02,Lecture
+BIO-B-2024,MATH202,Calculus II,Friday,15:30,17:00,1.5,G02,Lecture
+BIO-C-2024,MATH201,Calculus I,Monday,08:00,09:30,1.5,G03,Lecture
+BIO-C-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,G03,Lecture
+BIO-C-2024,BIO101,Introduction to Biology,Monday,12:00,13:30,1.5,G03,Lecture
+BIO-C-2024,BIO201,Cell Biology,Monday,13:30,16:30,3.0,CL03,Lab
+BIO-C-2024,BIO202,Genetics,Monday,16:30,18:00,1.5,G03,Lecture
+BIO-C-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,G03,Lecture
+BIO-C-2024,BIO202,Genetics,Tuesday,10:00,11:30,1.5,G03,Lecture
+BIO-C-2024,BIO101,Introduction to Biology,Tuesday,12:00,13:30,1.5,G03,Lecture
+BIO-C-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G03,Lecture
+BIO-C-2024,CHEM201,Organic Chemistry,Tuesday,15:30,17:00,1.5,G03,Lecture
+BIO-C-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,09:30,1.5,G03,Lecture
+BIO-C-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G03,Lecture
+BIO-C-2024,CHEM101,General Chemistry,Wednesday,12:00,13:30,1.5,G03,Lecture
+BIO-C-2024,BIO202,Genetics,Wednesday,13:30,16:30,3.0,CL03,Lab
+BIO-C-2024,CHEM201,Organic Chemistry,Wednesday,16:30,18:00,1.5,G03,Lecture
+BIO-C-2024,PHYS101,Physics Fundamentals,Thursday,08:00,11:00,3.0,CL03,Lab
+BIO-C-2024,CHEM101,General Chemistry,Thursday,12:00,13:30,1.5,G03,Lecture
+BIO-C-2024,BIO201,Cell Biology,Thursday,14:00,15:30,1.5,G03,Lecture
+BIO-C-2024,MATH202,Calculus II,Thursday,15:30,17:00,1.5,G03,Lecture
+BIO-C-2024,CHEM101,General Chemistry,Friday,08:00,11:00,3.0,CL03,Lab
+BIO-C-2024,MATH201,Calculus I,Friday,12:00,13:30,1.5,G03,Lecture
+BIO-C-2024,BIO201,Cell Biology,Friday,14:00,15:30,1.5,G03,Lecture
+BIO-C-2024,MATH202,Calculus II,Friday,15:30,17:00,1.5,G03,Lecture
+CE-A-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,G04,Lecture
+CE-A-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,G04,Lecture
+CE-A-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,G04,Lecture
+CE-A-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G01,Lecture
+CE-A-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G01,Lecture
+CE-A-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,G04,Lecture
+CE-A-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL01,Lab
+CE-A-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,G04,Lecture
+CE-A-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,G04,Lecture
+CE-A-2024,CE201,Structural Analysis,Tuesday,15:30,17:00,1.5,G04,Lecture
+CE-A-2024,CE101,Introduction to Civil Engineering,Wednesday,08:00,09:30,1.5,G04,Lecture
+CE-A-2024,CE101,Introduction to Civil Engineering,Wednesday,10:00,11:30,1.5,G04,Lecture
+CE-A-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,G04,Lecture
+CE-A-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL04,Lab
+CE-A-2024,CE201,Structural Analysis,Wednesday,16:30,18:00,1.5,G04,Lecture
+CE-A-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,G01,Lecture
+CE-A-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,G01,Lecture
+CE-A-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,G04,Lecture
+CE-A-2024,CE201,Structural Analysis,Thursday,13:30,16:30,3.0,CL01,Lab
+CE-A-2024,CE202,Geotechnical Engineering,Thursday,16:30,18:00,1.5,G04,Lecture
+CE-A-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL04,Lab
+CE-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,G04,Lecture
+CE-A-2024,CE202,Geotechnical Engineering,Friday,14:00,15:30,1.5,G04,Lecture
+CE-A-2024,HIST201,World History,Friday,15:30,17:00,1.5,G04,Lecture
+CE-B-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,G05,Lecture
+CE-B-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,G05,Lecture
+CE-B-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,G05,Lecture
+CE-B-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G02,Lecture
+CE-B-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G02,Lecture
+CE-B-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,G05,Lecture
+CE-B-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL02,Lab
+CE-B-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,G05,Lecture
+CE-B-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,G05,Lecture
+CE-B-2024,CE201,Structural Analysis,Tuesday,15:30,17:00,1.5,G05,Lecture
+CE-B-2024,CE101,Introduction to Civil Engineering,Wednesday,08:00,09:30,1.5,G05,Lecture
+CE-B-2024,CE101,Introduction to Civil Engineering,Wednesday,10:00,11:30,1.5,G05,Lecture
+CE-B-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,G05,Lecture
+CE-B-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL05,Lab
+CE-B-2024,CE201,Structural Analysis,Wednesday,16:30,18:00,1.5,G05,Lecture
+CE-B-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,G02,Lecture
+CE-B-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,G02,Lecture
+CE-B-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,G05,Lecture
+CE-B-2024,CE201,Structural Analysis,Thursday,13:30,16:30,3.0,CL02,Lab
+CE-B-2024,CE202,Geotechnical Engineering,Thursday,16:30,18:00,1.5,G05,Lecture
+CE-B-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL05,Lab
+CE-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,G05,Lecture
+CE-B-2024,CE202,Geotechnical Engineering,Friday,14:00,15:30,1.5,G05,Lecture
+CE-B-2024,HIST201,World History,Friday,15:30,17:00,1.5,G05,Lecture
+CE-C-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,G06,Lecture
+CE-C-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,G06,Lecture
+CE-C-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,G06,Lecture
+CE-C-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G03,Lecture
+CE-C-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G03,Lecture
+CE-C-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,G06,Lecture
+CE-C-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL03,Lab
+CE-C-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,G06,Lecture
+CE-C-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,G06,Lecture
+CE-C-2024,CE201,Structural Analysis,Tuesday,15:30,17:00,1.5,G06,Lecture
+CE-C-2024,CE101,Introduction to Civil Engineering,Wednesday,08:00,09:30,1.5,G06,Lecture
+CE-C-2024,CE101,Introduction to Civil Engineering,Wednesday,10:00,11:30,1.5,G06,Lecture
+CE-C-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,G06,Lecture
+CE-C-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL06,Lab
+CE-C-2024,CE201,Structural Analysis,Wednesday,16:30,18:00,1.5,G06,Lecture
+CE-C-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,G03,Lecture
+CE-C-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,G03,Lecture
+CE-C-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,G06,Lecture
+CE-C-2024,CE201,Structural Analysis,Thursday,13:30,16:30,3.0,CL03,Lab
+CE-C-2024,CE202,Geotechnical Engineering,Thursday,16:30,18:00,1.5,G06,Lecture
+CE-C-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL06,Lab
+CE-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,G06,Lecture
+CE-C-2024,CE202,Geotechnical Engineering,Friday,14:00,15:30,1.5,G06,Lecture
+CE-C-2024,HIST201,World History,Friday,15:30,17:00,1.5,G06,Lecture
+CHEM-A-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,G07,Lecture
+CHEM-A-2024,BIO101,Introduction to Biology,Monday,10:00,11:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM101,General Chemistry,Monday,12:00,13:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM201,Organic Chemistry,Monday,13:30,16:30,3.0,CL04,Lab
+CHEM-A-2024,CHEM202,Physical Chemistry,Monday,16:30,18:00,1.5,G07,Lecture
+CHEM-A-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL04,Lab
+CHEM-A-2024,CHEM101,General Chemistry,Tuesday,12:00,13:30,1.5,G07,Lecture
+CHEM-A-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM202,Physical Chemistry,Tuesday,15:30,17:00,1.5,G07,Lecture
+CHEM-A-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL01,Lab
+CHEM-A-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM201,Organic Chemistry,Wednesday,14:00,15:30,1.5,G01,Lecture
+CHEM-A-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,G07,Lecture
+CHEM-A-2024,ENG101,English Composition,Thursday,08:00,10:00,2.0,G04,Lecture
+CHEM-A-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,G04,Lecture
+CHEM-A-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM201,Organic Chemistry,Thursday,14:00,15:30,1.5,G04,Lecture
+CHEM-A-2024,PHYS201,Mechanics,Thursday,15:30,17:00,1.5,G07,Lecture
+CHEM-A-2024,BIO101,Introduction to Biology,Friday,08:00,09:30,1.5,G01,Lecture
+CHEM-A-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,G01,Lecture
+CHEM-A-2024,PHYS101,Physics Fundamentals,Friday,12:00,13:30,1.5,G07,Lecture
+CHEM-A-2024,CHEM202,Physical Chemistry,Friday,13:30,16:30,3.0,CL01,Lab
+CHEM-A-2024,PHYS201,Mechanics,Friday,16:30,18:00,1.5,G07,Lecture
+CHEM-B-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,G08,Lecture
+CHEM-B-2024,BIO101,Introduction to Biology,Monday,10:00,11:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM101,General Chemistry,Monday,12:00,13:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM201,Organic Chemistry,Monday,13:30,16:30,3.0,CL05,Lab
+CHEM-B-2024,CHEM202,Physical Chemistry,Monday,16:30,18:00,1.5,G08,Lecture
+CHEM-B-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL05,Lab
+CHEM-B-2024,CHEM101,General Chemistry,Tuesday,12:00,13:30,1.5,G08,Lecture
+CHEM-B-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM202,Physical Chemistry,Tuesday,15:30,17:00,1.5,G08,Lecture
+CHEM-B-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL02,Lab
+CHEM-B-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM201,Organic Chemistry,Wednesday,14:00,15:30,1.5,G02,Lecture
+CHEM-B-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,G08,Lecture
+CHEM-B-2024,ENG101,English Composition,Thursday,08:00,10:00,2.0,G05,Lecture
+CHEM-B-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,G05,Lecture
+CHEM-B-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM201,Organic Chemistry,Thursday,14:00,15:30,1.5,G05,Lecture
+CHEM-B-2024,PHYS201,Mechanics,Thursday,15:30,17:00,1.5,G08,Lecture
+CHEM-B-2024,BIO101,Introduction to Biology,Friday,08:00,09:30,1.5,G02,Lecture
+CHEM-B-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,G02,Lecture
+CHEM-B-2024,PHYS101,Physics Fundamentals,Friday,12:00,13:30,1.5,G08,Lecture
+CHEM-B-2024,CHEM202,Physical Chemistry,Friday,13:30,16:30,3.0,CL02,Lab
+CHEM-B-2024,PHYS201,Mechanics,Friday,16:30,18:00,1.5,G08,Lecture
+CHEM-C-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,G09,Lecture
+CHEM-C-2024,BIO101,Introduction to Biology,Monday,10:00,11:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM101,General Chemistry,Monday,12:00,13:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM201,Organic Chemistry,Monday,13:30,16:30,3.0,CL06,Lab
+CHEM-C-2024,CHEM202,Physical Chemistry,Monday,16:30,18:00,1.5,G09,Lecture
+CHEM-C-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL06,Lab
+CHEM-C-2024,CHEM101,General Chemistry,Tuesday,12:00,13:30,1.5,G09,Lecture
+CHEM-C-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM202,Physical Chemistry,Tuesday,15:30,17:00,1.5,G09,Lecture
+CHEM-C-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL03,Lab
+CHEM-C-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM201,Organic Chemistry,Wednesday,14:00,15:30,1.5,G03,Lecture
+CHEM-C-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,G09,Lecture
+CHEM-C-2024,ENG101,English Composition,Thursday,08:00,10:00,2.0,G06,Lecture
+CHEM-C-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,G06,Lecture
+CHEM-C-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM201,Organic Chemistry,Thursday,14:00,15:30,1.5,G06,Lecture
+CHEM-C-2024,PHYS201,Mechanics,Thursday,15:30,17:00,1.5,G09,Lecture
+CHEM-C-2024,BIO101,Introduction to Biology,Friday,08:00,09:30,1.5,G03,Lecture
+CHEM-C-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,G03,Lecture
+CHEM-C-2024,PHYS101,Physics Fundamentals,Friday,12:00,13:30,1.5,G09,Lecture
+CHEM-C-2024,CHEM202,Physical Chemistry,Friday,13:30,16:30,3.0,CL03,Lab
+CHEM-C-2024,PHYS201,Mechanics,Friday,16:30,18:00,1.5,G09,Lecture
+CS-A-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,101,Lecture
+CS-A-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,101,Lecture
+CS-A-2024,CS101,Introduction to Computer Science,Monday,12:00,13:30,1.5,101,Lecture
+CS-A-2024,CS102,Data Structures,Monday,13:30,16:30,3.0,CL07,Lab
+CS-A-2024,CS201,Algorithms,Monday,16:30,18:00,1.5,101,Lecture
+CS-A-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL07,Lab
+CS-A-2024,CS101,Introduction to Computer Science,Tuesday,12:00,13:30,1.5,101,Lecture
+CS-A-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,101,Lecture
+CS-A-2024,CS201,Algorithms,Tuesday,15:30,17:00,1.5,101,Lecture
+CS-A-2024,STAT201,Statistics,Wednesday,08:00,09:30,1.5,G07,Lecture
+CS-A-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G07,Lecture
+CS-A-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,101,Lecture
+CS-A-2024,CS201,Algorithms,Wednesday,13:30,16:30,3.0,CL07,Lab
+CS-A-2024,HIST201,World History,Wednesday,16:30,18:00,1.5,101,Lecture
+CS-A-2024,PHIL101,Introduction to Philosophy,Thursday,08:00,10:00,2.0,G07,Lecture
+CS-A-2024,HIST201,World History,Thursday,10:00,11:30,1.5,G07,Lecture
+CS-A-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,101,Lecture
+CS-A-2024,MATH202,Calculus II,Thursday,14:00,15:30,1.5,G07,Lecture
+CS-A-2024,ECON101,Principles of Economics,Thursday,15:30,17:00,1.5,101,Lecture
+CS-A-2024,CS102,Data Structures,Friday,08:00,09:30,1.5,G04,Lecture
+CS-A-2024,CS102,Data Structures,Friday,10:00,11:30,1.5,G04,Lecture
+CS-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,101,Lecture
+CS-A-2024,ECON101,Principles of Economics,Friday,14:00,15:30,1.5,G07,Lecture
+CS-A-2024,CS202,Database Systems,Friday,15:30,17:00,1.5,101,Lecture
+CS-B-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,201,Lecture
+CS-B-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,201,Lecture
+CS-B-2024,CS101,Introduction to Computer Science,Monday,12:00,13:30,1.5,201,Lecture
+CS-B-2024,CS102,Data Structures,Monday,13:30,16:30,3.0,CL08,Lab
+CS-B-2024,CS201,Algorithms,Monday,16:30,18:00,1.5,201,Lecture
+CS-B-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL08,Lab
+CS-B-2024,CS101,Introduction to Computer Science,Tuesday,12:00,13:30,1.5,201,Lecture
+CS-B-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,201,Lecture
+CS-B-2024,CS201,Algorithms,Tuesday,15:30,17:00,1.5,201,Lecture
+CS-B-2024,STAT201,Statistics,Wednesday,08:00,09:30,1.5,G08,Lecture
+CS-B-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G08,Lecture
+CS-B-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,201,Lecture
+CS-B-2024,CS201,Algorithms,Wednesday,13:30,16:30,3.0,CL08,Lab
+CS-B-2024,HIST201,World History,Wednesday,16:30,18:00,1.5,201,Lecture
+CS-B-2024,PHIL101,Introduction to Philosophy,Thursday,08:00,10:00,2.0,G08,Lecture
+CS-B-2024,HIST201,World History,Thursday,10:00,11:30,1.5,G08,Lecture
+CS-B-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,201,Lecture
+CS-B-2024,MATH202,Calculus II,Thursday,14:00,15:30,1.5,G08,Lecture
+CS-B-2024,ECON101,Principles of Economics,Thursday,15:30,17:00,1.5,201,Lecture
+CS-B-2024,CS102,Data Structures,Friday,08:00,09:30,1.5,G05,Lecture
+CS-B-2024,CS102,Data Structures,Friday,10:00,11:30,1.5,G05,Lecture
+CS-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,201,Lecture
+CS-B-2024,ECON101,Principles of Economics,Friday,14:00,15:30,1.5,G08,Lecture
+CS-B-2024,CS202,Database Systems,Friday,15:30,17:00,1.5,201,Lecture
+CS-C-2024,PHYS101,Physics Fundamentals,Monday,08:00,09:30,1.5,301,Lecture
+CS-C-2024,PHYS101,Physics Fundamentals,Monday,10:00,11:30,1.5,301,Lecture
+CS-C-2024,CS101,Introduction to Computer Science,Monday,12:00,13:30,1.5,301,Lecture
+CS-C-2024,CS102,Data Structures,Monday,13:30,16:30,3.0,CL09,Lab
+CS-C-2024,CS201,Algorithms,Monday,16:30,18:00,1.5,301,Lecture
+CS-C-2024,PHYS101,Physics Fundamentals,Tuesday,08:00,11:00,3.0,CL09,Lab
+CS-C-2024,CS101,Introduction to Computer Science,Tuesday,12:00,13:30,1.5,301,Lecture
+CS-C-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,301,Lecture
+CS-C-2024,CS201,Algorithms,Tuesday,15:30,17:00,1.5,301,Lecture
+CS-C-2024,STAT201,Statistics,Wednesday,08:00,09:30,1.5,G09,Lecture
+CS-C-2024,STAT201,Statistics,Wednesday,10:00,11:30,1.5,G09,Lecture
+CS-C-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,301,Lecture
+CS-C-2024,CS201,Algorithms,Wednesday,13:30,16:30,3.0,CL09,Lab
+CS-C-2024,HIST201,World History,Wednesday,16:30,18:00,1.5,301,Lecture
+CS-C-2024,PHIL101,Introduction to Philosophy,Thursday,08:00,10:00,2.0,G09,Lecture
+CS-C-2024,HIST201,World History,Thursday,10:00,11:30,1.5,G09,Lecture
+CS-C-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,301,Lecture
+CS-C-2024,MATH202,Calculus II,Thursday,14:00,15:30,1.5,G09,Lecture
+CS-C-2024,ECON101,Principles of Economics,Thursday,15:30,17:00,1.5,301,Lecture
+CS-C-2024,CS102,Data Structures,Friday,08:00,09:30,1.5,G06,Lecture
+CS-C-2024,CS102,Data Structures,Friday,10:00,11:30,1.5,G06,Lecture
+CS-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,301,Lecture
+CS-C-2024,ECON101,Principles of Economics,Friday,14:00,15:30,1.5,G09,Lecture
+CS-C-2024,CS202,Database Systems,Friday,15:30,17:00,1.5,301,Lecture
+ECON-A-2024,HIST201,World History,Monday,08:00,09:30,1.5,102,Lecture
+ECON-A-2024,HIST201,World History,Monday,10:00,11:30,1.5,102,Lecture
+ECON-A-2024,ECON101,Principles of Economics,Monday,12:00,13:30,1.5,102,Lecture
+ECON-A-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G04,Lecture
+ECON-A-2024,HIST202,European History,Monday,15:00,16:30,1.5,G04,Lecture
+ECON-A-2024,HIST202,European History,Monday,16:30,18:00,1.5,102,Lecture
+ECON-A-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G04,Lecture
+ECON-A-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G04,Lecture
+ECON-A-2024,ECON101,Principles of Economics,Tuesday,12:00,13:30,1.5,102,Lecture
+ECON-A-2024,PSYCH101,Introduction to Psychology,Tuesday,13:30,15:00,1.5,102,Lecture
+ECON-A-2024,PSYCH101,Introduction to Psychology,Tuesday,15:00,16:30,1.5,102,Lecture
+ECON-A-2024,ECON301,International Economics,Tuesday,16:30,18:00,1.5,102,Lecture
+ECON-A-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,101,Lecture
+ECON-A-2024,ECON301,International Economics,Wednesday,10:00,11:30,1.5,101,Lecture
+ECON-A-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,102,Lecture
+ECON-A-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,G04,Lecture
+ECON-A-2024,MATH203,Linear Algebra,Wednesday,15:30,17:00,1.5,102,Lecture
+ECON-A-2024,ECON201,Microeconomics,Thursday,08:00,09:30,1.5,101,Lecture
+ECON-A-2024,ECON201,Microeconomics,Thursday,10:00,11:30,1.5,101,Lecture
+ECON-A-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,102,Lecture
+ECON-A-2024,ECON301,International Economics,Thursday,13:30,16:30,3.0,CL04,Lab
+ECON-A-2024,MATH203,Linear Algebra,Thursday,16:30,18:00,1.5,102,Lecture
+ECON-A-2024,ECON202,Macroeconomics,Friday,08:00,09:30,1.5,G07,Lecture
+ECON-A-2024,ECON202,Macroeconomics,Friday,10:00,11:30,1.5,G07,Lecture
+ECON-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,102,Lecture
+ECON-A-2024,POL201,International Relations,Friday,14:00,15:30,1.5,101,Lecture
+ECON-A-2024,POL201,International Relations,Friday,15:30,17:00,1.5,102,Lecture
+ECON-B-2024,HIST201,World History,Monday,08:00,09:30,1.5,103,Lecture
+ECON-B-2024,HIST201,World History,Monday,10:00,11:30,1.5,103,Lecture
+ECON-B-2024,ECON101,Principles of Economics,Monday,12:00,13:30,1.5,103,Lecture
+ECON-B-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G05,Lecture
+ECON-B-2024,HIST202,European History,Monday,15:00,16:30,1.5,G05,Lecture
+ECON-B-2024,HIST202,European History,Monday,16:30,18:00,1.5,103,Lecture
+ECON-B-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G05,Lecture
+ECON-B-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G05,Lecture
+ECON-B-2024,ECON101,Principles of Economics,Tuesday,12:00,13:30,1.5,103,Lecture
+ECON-B-2024,PSYCH101,Introduction to Psychology,Tuesday,13:30,15:00,1.5,103,Lecture
+ECON-B-2024,PSYCH101,Introduction to Psychology,Tuesday,15:00,16:30,1.5,103,Lecture
+ECON-B-2024,ECON301,International Economics,Tuesday,16:30,18:00,1.5,103,Lecture
+ECON-B-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,201,Lecture
+ECON-B-2024,ECON301,International Economics,Wednesday,10:00,11:30,1.5,201,Lecture
+ECON-B-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,103,Lecture
+ECON-B-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,G05,Lecture
+ECON-B-2024,MATH203,Linear Algebra,Wednesday,15:30,17:00,1.5,103,Lecture
+ECON-B-2024,ECON201,Microeconomics,Thursday,08:00,09:30,1.5,201,Lecture
+ECON-B-2024,ECON201,Microeconomics,Thursday,10:00,11:30,1.5,201,Lecture
+ECON-B-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,103,Lecture
+ECON-B-2024,ECON301,International Economics,Thursday,13:30,16:30,3.0,CL05,Lab
+ECON-B-2024,MATH203,Linear Algebra,Thursday,16:30,18:00,1.5,103,Lecture
+ECON-B-2024,ECON202,Macroeconomics,Friday,08:00,09:30,1.5,G08,Lecture
+ECON-B-2024,ECON202,Macroeconomics,Friday,10:00,11:30,1.5,G08,Lecture
+ECON-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,103,Lecture
+ECON-B-2024,POL201,International Relations,Friday,14:00,15:30,1.5,201,Lecture
+ECON-B-2024,POL201,International Relations,Friday,15:30,17:00,1.5,103,Lecture
+ECON-C-2024,HIST201,World History,Monday,08:00,09:30,1.5,104,Lecture
+ECON-C-2024,HIST201,World History,Monday,10:00,11:30,1.5,104,Lecture
+ECON-C-2024,ECON101,Principles of Economics,Monday,12:00,13:30,1.5,104,Lecture
+ECON-C-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G06,Lecture
+ECON-C-2024,HIST202,European History,Monday,15:00,16:30,1.5,G06,Lecture
+ECON-C-2024,HIST202,European History,Monday,16:30,18:00,1.5,104,Lecture
+ECON-C-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G06,Lecture
+ECON-C-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G06,Lecture
+ECON-C-2024,ECON101,Principles of Economics,Tuesday,12:00,13:30,1.5,104,Lecture
+ECON-C-2024,PSYCH101,Introduction to Psychology,Tuesday,13:30,15:00,1.5,104,Lecture
+ECON-C-2024,PSYCH101,Introduction to Psychology,Tuesday,15:00,16:30,1.5,104,Lecture
+ECON-C-2024,ECON301,International Economics,Tuesday,16:30,18:00,1.5,104,Lecture
+ECON-C-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,301,Lecture
+ECON-C-2024,ECON301,International Economics,Wednesday,10:00,11:30,1.5,301,Lecture
+ECON-C-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,104,Lecture
+ECON-C-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,G06,Lecture
+ECON-C-2024,MATH203,Linear Algebra,Wednesday,15:30,17:00,1.5,104,Lecture
+ECON-C-2024,ECON201,Microeconomics,Thursday,08:00,09:30,1.5,301,Lecture
+ECON-C-2024,ECON201,Microeconomics,Thursday,10:00,11:30,1.5,301,Lecture
+ECON-C-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,104,Lecture
+ECON-C-2024,ECON301,International Economics,Thursday,13:30,16:30,3.0,CL06,Lab
+ECON-C-2024,MATH203,Linear Algebra,Thursday,16:30,18:00,1.5,104,Lecture
+ECON-C-2024,ECON202,Macroeconomics,Friday,08:00,09:30,1.5,G09,Lecture
+ECON-C-2024,ECON202,Macroeconomics,Friday,10:00,11:30,1.5,G09,Lecture
+ECON-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,104,Lecture
+ECON-C-2024,POL201,International Relations,Friday,14:00,15:30,1.5,301,Lecture
+ECON-C-2024,POL201,International Relations,Friday,15:30,17:00,1.5,104,Lecture
+EE-A-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,105,Lecture
+EE-A-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,105,Lecture
+EE-A-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,105,Lecture
+EE-A-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G07,Lecture
+EE-A-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G07,Lecture
+EE-A-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,105,Lecture
+EE-A-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL10,Lab
+EE-A-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,105,Lecture
+EE-A-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,105,Lecture
+EE-A-2024,EE201,Circuit Analysis,Tuesday,15:30,17:00,1.5,105,Lecture
+EE-A-2024,EE101,Introduction to Electrical Engineering,Wednesday,08:00,09:30,1.5,102,Lecture
+EE-A-2024,EE101,Introduction to Electrical Engineering,Wednesday,10:00,11:30,1.5,102,Lecture
+EE-A-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,105,Lecture
+EE-A-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL10,Lab
+EE-A-2024,EE201,Circuit Analysis,Wednesday,16:30,18:00,1.5,105,Lecture
+EE-A-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,102,Lecture
+EE-A-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,102,Lecture
+EE-A-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,105,Lecture
+EE-A-2024,EE201,Circuit Analysis,Thursday,13:30,16:30,3.0,CL07,Lab
+EE-A-2024,EE202,Digital Electronics,Thursday,16:30,18:00,1.5,105,Lecture
+EE-A-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL07,Lab
+EE-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,105,Lecture
+EE-A-2024,EE202,Digital Electronics,Friday,14:00,15:30,1.5,102,Lecture
+EE-A-2024,HIST201,World History,Friday,15:30,17:00,1.5,105,Lecture
+EE-B-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,106,Lecture
+EE-B-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,106,Lecture
+EE-B-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,106,Lecture
+EE-B-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G08,Lecture
+EE-B-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G08,Lecture
+EE-B-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,106,Lecture
+EE-B-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL11,Lab
+EE-B-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,106,Lecture
+EE-B-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,106,Lecture
+EE-B-2024,EE201,Circuit Analysis,Tuesday,15:30,17:00,1.5,106,Lecture
+EE-B-2024,EE101,Introduction to Electrical Engineering,Wednesday,08:00,09:30,1.5,103,Lecture
+EE-B-2024,EE101,Introduction to Electrical Engineering,Wednesday,10:00,11:30,1.5,103,Lecture
+EE-B-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,106,Lecture
+EE-B-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL11,Lab
+EE-B-2024,EE201,Circuit Analysis,Wednesday,16:30,18:00,1.5,106,Lecture
+EE-B-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,103,Lecture
+EE-B-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,103,Lecture
+EE-B-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,106,Lecture
+EE-B-2024,EE201,Circuit Analysis,Thursday,13:30,16:30,3.0,CL08,Lab
+EE-B-2024,EE202,Digital Electronics,Thursday,16:30,18:00,1.5,106,Lecture
+EE-B-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL08,Lab
+EE-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,106,Lecture
+EE-B-2024,EE202,Digital Electronics,Friday,14:00,15:30,1.5,103,Lecture
+EE-B-2024,HIST201,World History,Friday,15:30,17:00,1.5,106,Lecture
+EE-C-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,107,Lecture
+EE-C-2024,CHEM101,General Chemistry,Monday,10:00,11:30,1.5,107,Lecture
+EE-C-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,107,Lecture
+EE-C-2024,MATH202,Calculus II,Monday,13:30,15:00,1.5,G09,Lecture
+EE-C-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,G09,Lecture
+EE-C-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,107,Lecture
+EE-C-2024,CHEM101,General Chemistry,Tuesday,08:00,11:00,3.0,CL12,Lab
+EE-C-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,107,Lecture
+EE-C-2024,MATH202,Calculus II,Tuesday,14:00,15:30,1.5,107,Lecture
+EE-C-2024,EE201,Circuit Analysis,Tuesday,15:30,17:00,1.5,107,Lecture
+EE-C-2024,EE101,Introduction to Electrical Engineering,Wednesday,08:00,09:30,1.5,104,Lecture
+EE-C-2024,EE101,Introduction to Electrical Engineering,Wednesday,10:00,11:30,1.5,104,Lecture
+EE-C-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,107,Lecture
+EE-C-2024,PHYS201,Mechanics,Wednesday,13:30,16:30,3.0,CL12,Lab
+EE-C-2024,EE201,Circuit Analysis,Wednesday,16:30,18:00,1.5,107,Lecture
+EE-C-2024,STAT201,Statistics,Thursday,08:00,09:30,1.5,104,Lecture
+EE-C-2024,STAT201,Statistics,Thursday,10:00,11:30,1.5,104,Lecture
+EE-C-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,107,Lecture
+EE-C-2024,EE201,Circuit Analysis,Thursday,13:30,16:30,3.0,CL09,Lab
+EE-C-2024,EE202,Digital Electronics,Thursday,16:30,18:00,1.5,107,Lecture
+EE-C-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL09,Lab
+EE-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,107,Lecture
+EE-C-2024,EE202,Digital Electronics,Friday,14:00,15:30,1.5,104,Lecture
+EE-C-2024,HIST201,World History,Friday,15:30,17:00,1.5,107,Lecture
+MATH-A-2024,CS101,Introduction to Computer Science,Monday,08:00,09:30,1.5,108,Lecture
+MATH-A-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,108,Lecture
+MATH-A-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,108,Lecture
+MATH-A-2024,MATH203,Linear Algebra,Monday,13:30,15:00,1.5,101,Lecture
+MATH-A-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,101,Lecture
+MATH-A-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,108,Lecture
+MATH-A-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G07,Lecture
+MATH-A-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G07,Lecture
+MATH-A-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,108,Lecture
+MATH-A-2024,PHYS201,Mechanics,Tuesday,13:30,16:30,3.0,CL01,Lab
+MATH-A-2024,CS102,Data Structures,Tuesday,16:30,18:00,1.5,108,Lecture
+MATH-A-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,105,Lecture
+MATH-A-2024,CS102,Data Structures,Wednesday,10:00,11:30,1.5,105,Lecture
+MATH-A-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,108,Lecture
+MATH-A-2024,MATH203,Linear Algebra,Wednesday,14:00,15:30,1.5,G07,Lecture
+MATH-A-2024,HIST201,World History,Wednesday,15:30,17:00,1.5,108,Lecture
+MATH-A-2024,MATH202,Calculus II,Thursday,08:00,09:30,1.5,105,Lecture
+MATH-A-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,105,Lecture
+MATH-A-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,108,Lecture
+MATH-A-2024,CS102,Data Structures,Thursday,13:30,16:30,3.0,CL10,Lab
+MATH-A-2024,HIST201,World History,Thursday,16:30,18:00,1.5,108,Lecture
+MATH-A-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL10,Lab
+MATH-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,108,Lecture
+MATH-A-2024,MATH301,Discrete Mathematics,Friday,14:00,15:30,1.5,105,Lecture
+MATH-A-2024,MATH301,Discrete Mathematics,Friday,15:30,17:00,1.5,108,Lecture
+MATH-B-2024,CS101,Introduction to Computer Science,Monday,08:00,09:30,1.5,109,Lecture
+MATH-B-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,109,Lecture
+MATH-B-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,109,Lecture
+MATH-B-2024,MATH203,Linear Algebra,Monday,13:30,15:00,1.5,201,Lecture
+MATH-B-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,201,Lecture
+MATH-B-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,109,Lecture
+MATH-B-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G08,Lecture
+MATH-B-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G08,Lecture
+MATH-B-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,109,Lecture
+MATH-B-2024,PHYS201,Mechanics,Tuesday,13:30,16:30,3.0,CL02,Lab
+MATH-B-2024,CS102,Data Structures,Tuesday,16:30,18:00,1.5,109,Lecture
+MATH-B-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,106,Lecture
+MATH-B-2024,CS102,Data Structures,Wednesday,10:00,11:30,1.5,106,Lecture
+MATH-B-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,109,Lecture
+MATH-B-2024,MATH203,Linear Algebra,Wednesday,14:00,15:30,1.5,G08,Lecture
+MATH-B-2024,HIST201,World History,Wednesday,15:30,17:00,1.5,109,Lecture
+MATH-B-2024,MATH202,Calculus II,Thursday,08:00,09:30,1.5,106,Lecture
+MATH-B-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,106,Lecture
+MATH-B-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,109,Lecture
+MATH-B-2024,CS102,Data Structures,Thursday,13:30,16:30,3.0,CL11,Lab
+MATH-B-2024,HIST201,World History,Thursday,16:30,18:00,1.5,109,Lecture
+MATH-B-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL11,Lab
+MATH-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,109,Lecture
+MATH-B-2024,MATH301,Discrete Mathematics,Friday,14:00,15:30,1.5,106,Lecture
+MATH-B-2024,MATH301,Discrete Mathematics,Friday,15:30,17:00,1.5,109,Lecture
+MATH-C-2024,CS101,Introduction to Computer Science,Monday,08:00,09:30,1.5,202,Lecture
+MATH-C-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,202,Lecture
+MATH-C-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,202,Lecture
+MATH-C-2024,MATH203,Linear Algebra,Monday,13:30,15:00,1.5,301,Lecture
+MATH-C-2024,PHYS201,Mechanics,Monday,15:00,16:30,1.5,301,Lecture
+MATH-C-2024,PHYS201,Mechanics,Monday,16:30,18:00,1.5,202,Lecture
+MATH-C-2024,STAT201,Statistics,Tuesday,08:00,09:30,1.5,G09,Lecture
+MATH-C-2024,STAT201,Statistics,Tuesday,10:00,11:30,1.5,G09,Lecture
+MATH-C-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,202,Lecture
+MATH-C-2024,PHYS201,Mechanics,Tuesday,13:30,16:30,3.0,CL03,Lab
+MATH-C-2024,CS102,Data Structures,Tuesday,16:30,18:00,1.5,202,Lecture
+MATH-C-2024,PHIL101,Introduction to Philosophy,Wednesday,08:00,10:00,2.0,107,Lecture
+MATH-C-2024,CS102,Data Structures,Wednesday,10:00,11:30,1.5,107,Lecture
+MATH-C-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,202,Lecture
+MATH-C-2024,MATH203,Linear Algebra,Wednesday,14:00,15:30,1.5,G09,Lecture
+MATH-C-2024,HIST201,World History,Wednesday,15:30,17:00,1.5,202,Lecture
+MATH-C-2024,MATH202,Calculus II,Thursday,08:00,09:30,1.5,107,Lecture
+MATH-C-2024,MATH202,Calculus II,Thursday,10:00,11:30,1.5,107,Lecture
+MATH-C-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,202,Lecture
+MATH-C-2024,CS102,Data Structures,Thursday,13:30,16:30,3.0,CL12,Lab
+MATH-C-2024,HIST201,World History,Thursday,16:30,18:00,1.5,202,Lecture
+MATH-C-2024,PHYS101,Physics Fundamentals,Friday,08:00,11:00,3.0,CL12,Lab
+MATH-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,202,Lecture
+MATH-C-2024,MATH301,Discrete Mathematics,Friday,14:00,15:30,1.5,107,Lecture
+MATH-C-2024,MATH301,Discrete Mathematics,Friday,15:30,17:00,1.5,202,Lecture
+ME-A-2024,PHYS101,Physics Fundamentals,Monday,08:00,11:00,3.0,CL01,Lab
+ME-A-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,203,Lecture
+ME-A-2024,MATH202,Calculus II,Monday,14:00,15:30,1.5,102,Lecture
+ME-A-2024,PHYS201,Mechanics,Monday,15:30,17:00,1.5,203,Lecture
+ME-A-2024,CHEM101,General Chemistry,Tuesday,08:00,09:30,1.5,101,Lecture
+ME-A-2024,CHEM101,General Chemistry,Tuesday,10:00,11:30,1.5,101,Lecture
+ME-A-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,203,Lecture
+ME-A-2024,PHYS201,Mechanics,Tuesday,13:30,15:00,1.5,108,Lecture
+ME-A-2024,PHYS201,Mechanics,Tuesday,15:00,18:00,3.0,CL04,Lab
+ME-A-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL04,Lab
+ME-A-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,203,Lecture
+ME-A-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,101,Lecture
+ME-A-2024,ME201,Mechanics of Materials,Wednesday,15:30,17:00,1.5,203,Lecture
+ME-A-2024,ME101,Introduction to Mechanical Engineering,Thursday,08:00,09:30,1.5,108,Lecture
+ME-A-2024,ME101,Introduction to Mechanical Engineering,Thursday,10:00,11:30,1.5,108,Lecture
+ME-A-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,203,Lecture
+ME-A-2024,ME201,Mechanics of Materials,Thursday,13:30,15:00,1.5,101,Lecture
+ME-A-2024,ME202,Thermodynamics,Thursday,15:00,16:30,1.5,102,Lecture
+ME-A-2024,ME202,Thermodynamics,Thursday,16:30,18:00,1.5,203,Lecture
+ME-A-2024,STAT201,Statistics,Friday,08:00,09:30,1.5,101,Lecture
+ME-A-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,101,Lecture
+ME-A-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,203,Lecture
+ME-A-2024,ME201,Mechanics of Materials,Friday,14:00,17:00,3.0,CL04,Lab
+ME-B-2024,PHYS101,Physics Fundamentals,Monday,08:00,11:00,3.0,CL02,Lab
+ME-B-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,204,Lecture
+ME-B-2024,MATH202,Calculus II,Monday,14:00,15:30,1.5,103,Lecture
+ME-B-2024,PHYS201,Mechanics,Monday,15:30,17:00,1.5,204,Lecture
+ME-B-2024,CHEM101,General Chemistry,Tuesday,08:00,09:30,1.5,201,Lecture
+ME-B-2024,CHEM101,General Chemistry,Tuesday,10:00,11:30,1.5,201,Lecture
+ME-B-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,204,Lecture
+ME-B-2024,PHYS201,Mechanics,Tuesday,13:30,15:00,1.5,109,Lecture
+ME-B-2024,PHYS201,Mechanics,Tuesday,15:00,18:00,3.0,CL05,Lab
+ME-B-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL05,Lab
+ME-B-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,204,Lecture
+ME-B-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,201,Lecture
+ME-B-2024,ME201,Mechanics of Materials,Wednesday,15:30,17:00,1.5,204,Lecture
+ME-B-2024,ME101,Introduction to Mechanical Engineering,Thursday,08:00,09:30,1.5,109,Lecture
+ME-B-2024,ME101,Introduction to Mechanical Engineering,Thursday,10:00,11:30,1.5,109,Lecture
+ME-B-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,204,Lecture
+ME-B-2024,ME201,Mechanics of Materials,Thursday,13:30,15:00,1.5,201,Lecture
+ME-B-2024,ME202,Thermodynamics,Thursday,15:00,16:30,1.5,103,Lecture
+ME-B-2024,ME202,Thermodynamics,Thursday,16:30,18:00,1.5,204,Lecture
+ME-B-2024,STAT201,Statistics,Friday,08:00,09:30,1.5,201,Lecture
+ME-B-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,201,Lecture
+ME-B-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,204,Lecture
+ME-B-2024,ME201,Mechanics of Materials,Friday,14:00,17:00,3.0,CL05,Lab
+ME-C-2024,PHYS101,Physics Fundamentals,Monday,08:00,11:00,3.0,CL03,Lab
+ME-C-2024,MATH201,Calculus I,Monday,12:00,13:30,1.5,205,Lecture
+ME-C-2024,MATH202,Calculus II,Monday,14:00,15:30,1.5,104,Lecture
+ME-C-2024,PHYS201,Mechanics,Monday,15:30,17:00,1.5,205,Lecture
+ME-C-2024,CHEM101,General Chemistry,Tuesday,08:00,09:30,1.5,301,Lecture
+ME-C-2024,CHEM101,General Chemistry,Tuesday,10:00,11:30,1.5,301,Lecture
+ME-C-2024,MATH201,Calculus I,Tuesday,12:00,13:30,1.5,205,Lecture
+ME-C-2024,PHYS201,Mechanics,Tuesday,13:30,15:00,1.5,202,Lecture
+ME-C-2024,PHYS201,Mechanics,Tuesday,15:00,18:00,3.0,CL06,Lab
+ME-C-2024,CHEM101,General Chemistry,Wednesday,08:00,11:00,3.0,CL06,Lab
+ME-C-2024,PHYS101,Physics Fundamentals,Wednesday,12:00,13:30,1.5,205,Lecture
+ME-C-2024,MATH202,Calculus II,Wednesday,14:00,15:30,1.5,301,Lecture
+ME-C-2024,ME201,Mechanics of Materials,Wednesday,15:30,17:00,1.5,205,Lecture
+ME-C-2024,ME101,Introduction to Mechanical Engineering,Thursday,08:00,09:30,1.5,202,Lecture
+ME-C-2024,ME101,Introduction to Mechanical Engineering,Thursday,10:00,11:30,1.5,202,Lecture
+ME-C-2024,PHYS101,Physics Fundamentals,Thursday,12:00,13:30,1.5,205,Lecture
+ME-C-2024,ME201,Mechanics of Materials,Thursday,13:30,15:00,1.5,301,Lecture
+ME-C-2024,ME202,Thermodynamics,Thursday,15:00,16:30,1.5,104,Lecture
+ME-C-2024,ME202,Thermodynamics,Thursday,16:30,18:00,1.5,205,Lecture
+ME-C-2024,STAT201,Statistics,Friday,08:00,09:30,1.5,301,Lecture
+ME-C-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,301,Lecture
+ME-C-2024,ENG101,English Composition,Friday,12:00,14:00,2.0,205,Lecture
+ME-C-2024,ME201,Mechanics of Materials,Friday,14:00,17:00,3.0,CL06,Lab
+PHYS-A-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,203,Lecture
+PHYS-A-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,203,Lecture
+PHYS-A-2024,PHYS101,Physics Fundamentals,Monday,12:00,13:30,1.5,206,Lecture
+PHYS-A-2024,PHYS201,Mechanics,Monday,13:30,16:30,3.0,CL10,Lab
+PHYS-A-2024,PHYS202,Electromagnetism,Monday,16:30,18:00,1.5,206,Lecture
+PHYS-A-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,102,Lecture
+PHYS-A-2024,PHYS202,Electromagnetism,Tuesday,10:00,11:30,1.5,102,Lecture
+PHYS-A-2024,PHYS101,Physics Fundamentals,Tuesday,12:00,13:30,1.5,206,Lecture
+PHYS-A-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,203,Lecture
+PHYS-A-2024,MATH202,Calculus II,Tuesday,15:30,17:00,1.5,203,Lecture
+PHYS-A-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,11:00,3.0,CL07,Lab
+PHYS-A-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,206,Lecture
+PHYS-A-2024,PHYS201,Mechanics,Wednesday,14:00,15:30,1.5,102,Lecture
+PHYS-A-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,206,Lecture
+PHYS-A-2024,CHEM101,General Chemistry,Thursday,08:00,11:00,3.0,CL04,Lab
+PHYS-A-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,206,Lecture
+PHYS-A-2024,PHYS201,Mechanics,Thursday,14:00,15:30,1.5,105,Lecture
+PHYS-A-2024,CHEM201,Organic Chemistry,Thursday,15:30,17:00,1.5,206,Lecture
+PHYS-A-2024,CS101,Introduction to Computer Science,Friday,08:00,09:30,1.5,102,Lecture
+PHYS-A-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,102,Lecture
+PHYS-A-2024,CHEM101,General Chemistry,Friday,12:00,13:30,1.5,206,Lecture
+PHYS-A-2024,PHYS202,Electromagnetism,Friday,13:30,16:30,3.0,CL07,Lab
+PHYS-A-2024,CHEM201,Organic Chemistry,Friday,16:30,18:00,1.5,203,Lecture
+PHYS-B-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,204,Lecture
+PHYS-B-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,204,Lecture
+PHYS-B-2024,PHYS101,Physics Fundamentals,Monday,12:00,13:30,1.5,207,Lecture
+PHYS-B-2024,PHYS201,Mechanics,Monday,13:30,16:30,3.0,CL11,Lab
+PHYS-B-2024,PHYS202,Electromagnetism,Monday,16:30,18:00,1.5,207,Lecture
+PHYS-B-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,103,Lecture
+PHYS-B-2024,PHYS202,Electromagnetism,Tuesday,10:00,11:30,1.5,103,Lecture
+PHYS-B-2024,PHYS101,Physics Fundamentals,Tuesday,12:00,13:30,1.5,207,Lecture
+PHYS-B-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,204,Lecture
+PHYS-B-2024,MATH202,Calculus II,Tuesday,15:30,17:00,1.5,204,Lecture
+PHYS-B-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,11:00,3.0,CL08,Lab
+PHYS-B-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,207,Lecture
+PHYS-B-2024,PHYS201,Mechanics,Wednesday,14:00,15:30,1.5,103,Lecture
+PHYS-B-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,207,Lecture
+PHYS-B-2024,CHEM101,General Chemistry,Thursday,08:00,11:00,3.0,CL05,Lab
+PHYS-B-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,207,Lecture
+PHYS-B-2024,PHYS201,Mechanics,Thursday,14:00,15:30,1.5,106,Lecture
+PHYS-B-2024,CHEM201,Organic Chemistry,Thursday,15:30,17:00,1.5,207,Lecture
+PHYS-B-2024,CS101,Introduction to Computer Science,Friday,08:00,09:30,1.5,103,Lecture
+PHYS-B-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,103,Lecture
+PHYS-B-2024,CHEM101,General Chemistry,Friday,12:00,13:30,1.5,207,Lecture
+PHYS-B-2024,PHYS202,Electromagnetism,Friday,13:30,16:30,3.0,CL08,Lab
+PHYS-B-2024,CHEM201,Organic Chemistry,Friday,16:30,18:00,1.5,204,Lecture
+PHYS-C-2024,CHEM101,General Chemistry,Monday,08:00,09:30,1.5,205,Lecture
+PHYS-C-2024,CS101,Introduction to Computer Science,Monday,10:00,11:30,1.5,205,Lecture
+PHYS-C-2024,PHYS101,Physics Fundamentals,Monday,12:00,13:30,1.5,208,Lecture
+PHYS-C-2024,PHYS201,Mechanics,Monday,13:30,16:30,3.0,CL12,Lab
+PHYS-C-2024,PHYS202,Electromagnetism,Monday,16:30,18:00,1.5,208,Lecture
+PHYS-C-2024,ENG101,English Composition,Tuesday,08:00,10:00,2.0,104,Lecture
+PHYS-C-2024,PHYS202,Electromagnetism,Tuesday,10:00,11:30,1.5,104,Lecture
+PHYS-C-2024,PHYS101,Physics Fundamentals,Tuesday,12:00,13:30,1.5,208,Lecture
+PHYS-C-2024,STAT201,Statistics,Tuesday,14:00,15:30,1.5,205,Lecture
+PHYS-C-2024,MATH202,Calculus II,Tuesday,15:30,17:00,1.5,205,Lecture
+PHYS-C-2024,PHYS101,Physics Fundamentals,Wednesday,08:00,11:00,3.0,CL09,Lab
+PHYS-C-2024,MATH201,Calculus I,Wednesday,12:00,13:30,1.5,208,Lecture
+PHYS-C-2024,PHYS201,Mechanics,Wednesday,14:00,15:30,1.5,104,Lecture
+PHYS-C-2024,MATH202,Calculus II,Wednesday,15:30,17:00,1.5,208,Lecture
+PHYS-C-2024,CHEM101,General Chemistry,Thursday,08:00,11:00,3.0,CL06,Lab
+PHYS-C-2024,MATH201,Calculus I,Thursday,12:00,13:30,1.5,208,Lecture
+PHYS-C-2024,PHYS201,Mechanics,Thursday,14:00,15:30,1.5,107,Lecture
+PHYS-C-2024,CHEM201,Organic Chemistry,Thursday,15:30,17:00,1.5,208,Lecture
+PHYS-C-2024,CS101,Introduction to Computer Science,Friday,08:00,09:30,1.5,104,Lecture
+PHYS-C-2024,STAT201,Statistics,Friday,10:00,11:30,1.5,104,Lecture
+PHYS-C-2024,CHEM101,General Chemistry,Friday,12:00,13:30,1.5,208,Lecture
+PHYS-C-2024,PHYS202,Electromagnetism,Friday,13:30,16:30,3.0,CL09,Lab
+PHYS-C-2024,CHEM201,Organic Chemistry,Friday,16:30,18:00,1.5,205,Lecture

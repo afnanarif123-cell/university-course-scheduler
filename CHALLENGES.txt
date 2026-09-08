@@ -1,0 +1,183 @@
+UNIVERSITY COURSE SCHEDULER - PROBLEMS FACED AND HOW I SOLVED THEM
+==================================================================
+
+A write-up of the main engineering problems in building an automatic university
+timetable generator, and the reasoning behind each solution.
+
+
+1. THE SEARCH SPACE WAS FAR TOO LARGE TO BRUTE FORCE
+----------------------------------------------------
+Problem:
+The sample data expands into 1,056 class sessions that all need placing. Each
+session could go in any of 5 days x 20 half-hour start times x ~36 rooms, and
+every placement changes what is legal for the next one. Searching that space
+exhaustively is not feasible - the combinations explode long before a full
+timetable is found.
+
+Solution:
+Instead of exploring the whole space, I scored every legal placement for a
+session and committed to the best one immediately, moving on to the next
+session. Sessions are grouped and processed batch by batch, so the constraints
+that matter most (a batch's own day) stay local and cheap to check. This turns
+an intractable search into a linear pass that completes in seconds.
+
+Trade-off I accepted:
+Committing greedily means the scheduler can paint itself into a corner and
+cannot undo an earlier choice. I accepted this because a good timetable produced
+in seconds is worth more here than a perfect one that never finishes.
+
+
+2. CONSTRAINTS INTERACTED IN WAYS THAT WERE HARD TO REASON ABOUT
+-----------------------------------------------------------------
+Problem:
+A placement is not just about "is the room free". It also has to respect student
+workload rules - no more than 3 consecutive 1.5-hour classes, no more than 2
+consecutive 2-hour classes, at most one lab a day, at most 6 hours of class a
+day, and at least a 15-minute break between classes. Scattering these checks
+through the placement code made bugs very hard to trace.
+
+Solution:
+I pulled every hard constraint into a single validation function that takes the
+current schedule and a proposed session and returns both a yes/no and the reason
+for a rejection. Placement code became a simple filter over that one function.
+When a session could not be placed, the reason string told me immediately which
+rule was blocking it instead of leaving me to guess.
+
+
+3. VALID TIMETABLES WERE STILL BAD TIMETABLES
+----------------------------------------------
+Problem:
+My first working version produced schedules that broke no rules but were awful
+to actually attend - a class at 8am, nothing until 2pm, then another class.
+Legality alone does not make a timetable usable.
+
+Solution:
+I added a scoring function so that among all legal placements the scheduler
+prefers the ones students would actually want. It scores a slot lower (better)
+when it sits close to the batch's existing classes that day, so days stay
+compact instead of full of dead gaps; it favours earlier start times; and it
+applies a deliberate bonus to the 12:00-14:00 window so lunch hours get used
+rather than left as an awkward hole. Compactness became an explicit objective
+rather than something I hoped would emerge.
+
+
+4. LECTURES WERE BEING PUT IN LAB ROOMS
+----------------------------------------
+Problem:
+Treating all rooms as interchangeable meant three-hour labs got scheduled into
+ordinary lecture halls and vice versa, which is useless in practice.
+
+Solution:
+I split the room pool by type - general rooms for lectures, dedicated computer
+labs (CL01-CL12) for labs - and made the session type select its pool before any
+availability check runs. This also shrank the search, since each session now
+only ever considers rooms it could legitimately use.
+
+
+5. VARIABLE COURSE FORMATS FROM A SINGLE CREDIT NUMBER
+-------------------------------------------------------
+Problem:
+The input data gives a course only a credit value, but courses of different
+weights meet in completely different shapes during the week. Hard-coding session
+patterns per course would not scale to a real catalogue.
+
+Solution:
+I wrote an expansion step that derives a course's weekly sessions from its
+credits before scheduling begins: 2 credits becomes one 2-hour lecture, 3
+credits becomes two 1.5-hour lectures, and 4 credits becomes two 1.5-hour
+lectures plus a 3-hour lab. Separating expansion from placement meant the
+scheduler only ever deals with a flat list of sessions and does not need to know
+anything about credit rules.
+
+
+6. ONE IMPOSSIBLE BATCH KILLED THE ENTIRE RUN
+----------------------------------------------
+Problem:
+If a batch is enrolled in more hours than can physically fit inside the
+constraints, there is no valid timetable for it. My early version treated that
+as a fatal error, so one over-subscribed batch meant no output at all - and no
+indication of which batch was at fault.
+
+Solution:
+I made the scheduler degrade gracefully instead of failing. When a session
+cannot be placed, it logs a warning naming the exact course and batch and
+carries on with the rest. The run still produces a usable timetable for every
+batch that does fit, and the warnings form a precise report of what needs fixing
+in the input data. This turned an opaque crash into actionable feedback.
+
+
+7. COURSE NAMES WERE BREAKING THE TIMETABLE RENDERING
+------------------------------------------------------
+Problem:
+The weekly timetable is drawn as custom HTML so I could control the grid layout
+and colour coding. That meant any course or batch name containing characters
+like &, <, > or quotes would be interpreted as markup and corrupt the table -
+and in the worst case allow injected markup from an imported CSV.
+
+Solution:
+I routed every piece of user-supplied text through an escaping function before
+it reaches the HTML string, converting the special characters to their entity
+equivalents. Data is now treated as data rather than markup, which fixed the
+rendering corruption and closed the injection risk from imported files at the
+same time.
+
+
+8. THE INTERFACE RECOMPUTED EVERYTHING ON EVERY CLICK
+------------------------------------------------------
+Problem:
+Streamlit re-runs the whole script on every interaction. Reloading and
+reprocessing the full schedule each time a user changed a dropdown made the app
+feel sluggish.
+
+Solution:
+I cached the data loading so repeated interactions reuse the parsed schedule
+instead of reading it again. The subtle part was invalidation: after
+regenerating the timetable, the cache still held the old data, so the UI showed
+a stale schedule that looked like the regeneration had silently failed. I fixed
+it by explicitly clearing the cache at the point of regeneration, so a rebuild
+always surfaces fresh results.
+
+
+9. A FRESH CLONE HAD NOTHING TO DISPLAY
+----------------------------------------
+Problem:
+The app reads a generated schedule file. On a clean checkout that file does not
+exist yet, so the interface opened to an error and the user had to know to run a
+separate script first.
+
+Solution:
+I made the app detect the missing file, run the scheduler itself with a progress
+indicator, and then load the result - so it works immediately on first launch. I
+also exposed regeneration as an explicit button, so the automatic path handles
+first-time setup while the manual path stays available for reruns after the
+input data changes.
+
+
+10. THE PROJECT WOULD NOT RUN ON A DIFFERENT MACHINE
+-----------------------------------------------------
+Problem:
+The project carried its virtual environment folder with it. Virtual environments
+store absolute paths to the interpreter that created them, so on any other
+machine every command failed with an error pointing at a Python installation
+that did not exist there. The environment was also several hundred megabytes of
+files that did not belong in version control.
+
+Solution:
+I removed the environment from the project, recorded the actual dependencies in
+a requirements file, and added a gitignore covering virtual environments, Python
+bytecode, caches and editor folders. Setup is now three portable commands - make
+an environment, activate it, install from the requirements file - which works
+the same on Windows, macOS and Linux.
+
+
+WHAT I TOOK AWAY FROM IT
+-------------------------
+The most useful lesson was that "correct" and "good" are different targets. A
+timetable that breaks no rules can still be one nobody wants to attend, and
+closing that gap meant writing down what a good schedule looks like as an
+explicit score rather than assuming it would fall out of the constraints.
+
+The second was that failing well matters as much as succeeding. The version that
+crashed on an impossible batch and the version that reports exactly which
+sessions it could not place do the same amount of scheduling - but only one of
+them tells you what to do next.

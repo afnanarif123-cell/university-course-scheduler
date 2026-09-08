@@ -1,0 +1,77 @@
+CourseCode,CourseName,Credits,Professor
+CS101,Introduction to Computer Science,3,Dr. Smith
+CS102,Data Structures,4,Dr. Johnson
+CS201,Algorithms,4,Dr. Anderson
+CS202,Database Systems,4,Dr. Martinez
+CS203,Computer Networks,3,Dr. Lee
+CS301,Operating Systems,4,Dr. Chen
+CS302,Software Engineering,3,Dr. Patel
+CS303,Artificial Intelligence,4,Dr. Kim
+CS304,Machine Learning,4,Dr. Singh
+CS305,Computer Graphics,3,Dr. White
+CS401,Distributed Systems,4,Dr. Brown
+CS402,Cybersecurity,4,Dr. Taylor
+MATH201,Calculus I,3,Dr. Williams
+MATH202,Calculus II,3,Dr. Garcia
+MATH203,Linear Algebra,3,Dr. Rodriguez
+MATH301,Discrete Mathematics,3,Dr. Lopez
+MATH302,Probability Theory,3,Dr. Hernandez
+MATH401,Advanced Calculus,4,Dr. Wilson
+PHYS101,Physics Fundamentals,4,Dr. Brown
+PHYS201,Mechanics,4,Dr. Davis
+PHYS202,Electromagnetism,4,Dr. Miller
+PHYS301,Quantum Physics,4,Dr. Moore
+PHYS302,Thermodynamics,3,Dr. Jackson
+CHEM101,General Chemistry,4,Dr. Wilson
+CHEM201,Organic Chemistry,4,Dr. Thomas
+CHEM202,Physical Chemistry,4,Dr. Anderson
+CHEM301,Biochemistry,4,Dr. Martinez
+BIO101,Introduction to Biology,3,Dr. Moore
+BIO201,Cell Biology,4,Dr. Lee
+BIO202,Genetics,4,Dr. Chen
+BIO301,Molecular Biology,4,Dr. Patel
+BIO302,Ecology,3,Dr. Kim
+ENG101,English Composition,2,Dr. Davis
+ENG201,World Literature,3,Dr. Singh
+ENG202,Creative Writing,2,Dr. White
+ENG301,Advanced Writing,3,Dr. Brown
+HIST201,World History,3,Dr. Miller
+HIST202,European History,3,Dr. Taylor
+HIST301,American History,3,Dr. Garcia
+HIST302,Asian History,3,Dr. Rodriguez
+PHIL101,Introduction to Philosophy,2,Dr. Thomas
+PHIL201,Ethics,3,Dr. Lopez
+PHIL202,Logic,3,Dr. Hernandez
+ECON101,Principles of Economics,3,Dr. Jackson
+ECON201,Microeconomics,3,Dr. Wilson
+ECON202,Macroeconomics,3,Dr. Davis
+ECON301,International Economics,4,Dr. Miller
+STAT201,Statistics,3,Dr. Taylor
+STAT301,Advanced Statistics,4,Dr. Garcia
+EE101,Introduction to Electrical Engineering,3,Dr. Rodriguez
+EE201,Circuit Analysis,4,Dr. Lopez
+EE202,Digital Electronics,4,Dr. Hernandez
+EE301,Power Systems,4,Dr. Wilson
+EE302,Control Systems,4,Dr. Davis
+ME101,Introduction to Mechanical Engineering,3,Dr. Miller
+ME201,Mechanics of Materials,4,Dr. Taylor
+ME202,Thermodynamics,4,Dr. Garcia
+ME301,Heat Transfer,4,Dr. Rodriguez
+CE101,Introduction to Civil Engineering,3,Dr. Lopez
+CE201,Structural Analysis,4,Dr. Hernandez
+CE202,Geotechnical Engineering,4,Dr. Wilson
+CE301,Transportation Engineering,4,Dr. Davis
+ARCH101,Introduction to Architecture,2,Dr. Miller
+ARCH201,Architectural Design,4,Dr. Taylor
+ARCH202,Building Materials,3,Dr. Garcia
+PSYCH101,Introduction to Psychology,3,Dr. Rodriguez
+PSYCH201,Developmental Psychology,3,Dr. Lopez
+PSYCH202,Social Psychology,3,Dr. Hernandez
+SOC101,Introduction to Sociology,3,Dr. Wilson
+SOC201,Social Theory,3,Dr. Davis
+POL101,Introduction to Political Science,3,Dr. Miller
+POL201,International Relations,3,Dr. Taylor
+ART101,Introduction to Art,2,Dr. Garcia
+ART201,Drawing and Painting,3,Dr. Rodriguez
+MUS101,Introduction to Music,2,Dr. Lopez
+MUS201,Music Theory,3,Dr. Hernandez
